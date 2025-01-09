@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: patient-service
-        image: oyage-dockerhub-username-eka-methanta-danna/patient-service:latest
+        image: gagani990817/patient-service:latest
 
         ports:
         - containerPort: 5000
